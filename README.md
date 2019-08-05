@@ -18,18 +18,18 @@ To improve this guide: Make pull requests or report an issue.
 
 In order of practicality (cost, availability, effectiveness, damage to ecosystem)
 
-## [[Traps]]
+## [Traps](https://github.com/mariusa/mosquito-eradication/wiki/Traps)
 
 
-## [[Sterilisation]]
-
-
-
-## [[Genetic modifications]]
+## [Sterilisation](https://github.com/mariusa/mosquito-eradication/wiki/Sterilisation)
 
 
 
-## [[Laser Insect Monitoring and Eradication]]
+## [Genetic modifications](https://github.com/mariusa/mosquito-eradication/wiki/Genetic-modifications)
+
+
+
+## [Laser Insect Monitoring and Eradication](https://github.com/mariusa/mosquito-eradication/wiki/Laser-Insect-Monitoring-and-Eradication)
 
 
 ## Insecticides
@@ -44,7 +44,7 @@ This guide won't detail insecticide-based solutions.
 
 [Mosquito control on Wikipedia](https://en.wikipedia.org/wiki/Mosquito_control)
 
-[Mosquito-eradication ideas]() discuss and upvote existing ideas
+[Mosquito-eradication ideas](https://github.com/mariusa/mosquito-eradication/issues) discuss and upvote existing ideas
 
 What other ideas do you have/know that aren't listed here? Please open an issue on GitHub with it and label with 'idea'.
 
