@@ -18,6 +18,9 @@ To improve this guide: Make pull requests or report an issue.
 
 In order of practicality (cost, availability, effectiveness, damage to ecosystem)
 
+## Bacteria eating larvae
+‎Bacillus Thuringiensis Sub-Species Israelensis, placed in water used to lay eggs.
+
 ## [Traps](https://github.com/mariusa/mosquito-eradication/wiki/Traps)
 
 
@@ -36,8 +39,6 @@ In order of practicality (cost, availability, effectiveness, damage to ecosystem
 
 While these work, insecticides are harmful to other insects, environment and people. They have also been in use for tens of years, while mosquito population still grows.
 This guide won't detail insecticide-based solutions.
-
-
 
 
 # Ideas to pursue
