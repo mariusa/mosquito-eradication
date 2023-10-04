@@ -2,16 +2,9 @@ Mosquitoes are becoming more problematic due to global warming, spreading of spe
 
 # Mission
 
-This open project documents practical ways of eradicating mosquitoes from open-air areas. 
+This open project documents practical ways of eradicating mosquitoes from open-air areas. We also hope to spur discussion to invent DYI, "open source" effective solutions.
 
-We also hope to spur discussion to invent DYI, "open source" effective solutions.
-
-
-# Organisation
-
-Discuss on [Reddit](https://www.reddit.com/r/Mosquitoes/)
-
-To improve this guide: Make pull requests or report an issue.
+To improve this guide, make pull requests or report an issue.
 
 
 # Solutions
@@ -19,6 +12,7 @@ To improve this guide: Make pull requests or report an issue.
 In order of practicality (cost, availability, effectiveness, damage to ecosystem)
 
 ## Bacteria eating larvae
+
 ‎Bacillus Thuringiensis Sub-Species Israelensis, placed in water used to lay eggs.
 
 ## [Traps](https://github.com/mariusa/mosquito-eradication/wiki/Traps)
