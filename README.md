@@ -13,7 +13,9 @@ In order of practicality (cost, availability, effectiveness, damage to ecosystem
 
 ## Bacteria eating larvae
 
-‎Bacillus Thuringiensis Sub-Species Israelensis, placed in water used to lay eggs.
+‎Bacillus Thuringiensis Sub-Species Israelensis, placed in [water used to lay eggs](https://news.ycombinator.com/item?id=44733888).
+
+
 
 ## [Traps](https://github.com/mariusa/mosquito-eradication/wiki/Traps)
 
